@@ -1,0 +1,25 @@
+{
+  "title": "Test",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1686657152",
+      "groups": {
+        "": "/proxy/api/mangasee/chapter/Komi-san-Wa-Komyushou-Desu-chapter-1"
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "",
+      "last_updated": "1686657173",
+      "groups": {
+        "": "https://mangadex.org/chapter/bea92739-3c7a-47db-87ec-cce4e9f5dd2a/1"
+      }
+    }
+  }
+}
