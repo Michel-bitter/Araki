@@ -36,6 +36,14 @@
       "groups": {
         "ScanShifters": "/proxy/api/imgur/chapter/BNiRUbc"
       }
+    },
+    "5": {
+      "title": "5",
+      "volume": "",
+      "last_updated": "1689848624",
+      "groups": {
+        "ScanShifters": "/proxy/api/mangadex/chapter/f252879d-a96e-4246-b072-f1034c0b956f"
+      }
     }
   }
 }
